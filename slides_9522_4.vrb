@@ -1,0 +1,11 @@
+\frametitle{Final notes}
+\begin{itemize}
+\item<1->
+Verification debugging was the \textbf{worst}.  But I knew I needed to power through it one line of data and one line of source code at a time.
+\item<2->
+I should have kept a notebook to keep track of everything I did.  Specifically I wish I knew which pages I used for line by line checks.
+\item<3>
+My next step will be to start using this for my rejects and get the 9522 from other stations (other VAs) to see how it works with other reports (data nomenclature is not standardized).  I may need to re-write my code to focus on the FI, VL, FDL, etc. lines depending on how other hospitals enter their data.
+
+\end{itemize}
+

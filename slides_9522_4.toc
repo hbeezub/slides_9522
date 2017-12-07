@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@sectionintoc {2}{Methodology}{9}{0}{2}
+\beamer@sectionintoc {3}{Pseudocode}{12}{0}{3}
+\beamer@sectionintoc {4}{9522}{13}{0}{4}
+\beamer@sectionintoc {5}{Code for IP Number}{17}{0}{5}
+\beamer@sectionintoc {6}{Code for Sequence Number and Feeder System}{19}{0}{6}
+\beamer@sectionintoc {7}{Code for Feeder Key}{20}{0}{7}
+\beamer@sectionintoc {8}{Product Description}{21}{0}{8}
+\beamer@sectionintoc {9}{Product Description Code-first item}{22}{0}{9}
+\beamer@sectionintoc {10}{Product Description Code-other items}{24}{0}{10}
+\beamer@sectionintoc {11}{Debugging}{26}{0}{11}
+\beamer@sectionintoc {12}{Mis-steps and wrong directions}{32}{0}{12}
